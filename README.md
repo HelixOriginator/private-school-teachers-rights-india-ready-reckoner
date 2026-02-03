@@ -1,29 +1,48 @@
 # Ready Reckoner for Private School Teachers (India)
 ## School Obligations · Teachers’ Rights · Service Rules · Termination & Due Process
 
-A practical legal and compliance handbook for private school teachers in India.
-
-This project brings together the laws, board byelaws, and service norms that schools are required or expected to follow — especially around appointments, contracts, pay, leave, discipline, and termination.
-
-The goal is simple: make teachers aware of their rights and help schools follow fair, lawful processes.
+A practical, plain-language handbook that explains what private schools in India are required or expected to follow — and what teachers are legally entitled to during recruitment, service, discipline, and termination.
 
 Created by **Kallol Chakrabarti, Global Independent Researcher**.
 
 ---
 
-## Why this exists
+## Why this handbook exists
 
-Many private school teachers face:
+Across many private schools, teachers face:
 
-- Arbitrary or oral termination  
-- Unclear contracts and probation rules  
-- Delayed or unfair salary practices  
-- Denial of statutory benefits (PF, gratuity, maternity, etc.)  
-- Lack of awareness about due process  
+- sudden or oral termination
+- unclear contracts and probation rules
+- unpaid or delayed salaries
+- denial of statutory benefits (PF, gratuity, maternity, etc.)
+- lack of due process in disciplinary actions
+- limited awareness of legal remedies
 
-Most problems happen because people don’t know what the rules actually say.
+Most issues arise not from complicated law, but from lack of clear information.
 
-This ready reckoner translates legal requirements into plain, usable guidance.
+This ready reckoner brings together the key rules, laws, and safeguards in one place so teachers can understand their position and act with confidence.
+
+---
+
+## What you’ll find inside
+
+The handbook is organised as short, usable sections rather than dense legal text.
+
+### Coverage includes
+
+- Central and state laws affecting private schools  
+- CBSE, CISCE, and state board affiliation norms  
+- Recruitment and appointment rules  
+- Contracts, probation, and confirmation  
+- Working hours, workload, pay, and benefits  
+- Leave, maternity protections, and statutory entitlements  
+- Disciplinary procedure and due process  
+- Suspension and termination safeguards  
+- Prevention of sexual harassment (POSH) compliance  
+- Equality, safety, and dignity at work  
+- Documentation and self-protection practices  
+- Grievance redressal and legal remedies  
+- Practical checklists and sample letters  
 
 ---
 
@@ -31,62 +50,51 @@ This ready reckoner translates legal requirements into plain, usable guidance.
 
 - Private school teachers (aided and unaided)
 - School administrators and HR teams
-- Union representatives
+- Teacher representatives and unions
 - Education researchers and policy advocates
 - Anyone reviewing service conditions or compliance
 
 ---
 
-## What this handbook covers
+## How to use this guide
 
-### Part A – Introduction & Scope
-Purpose, users, and how to use the guide
+You don’t have to read everything.
 
-### Part B – Legal Framework
-RTE Act, labour laws, education acts, PF/ESI/gratuity, POSH, board rules
+Start with your immediate concern:
 
-### Part C – Recruitment & Appointment
-Fair hiring practices, contracts, probation, confirmation norms
+- joining a new school → appointment & contract section  
+- salary or leave issue → service conditions  
+- memo or warning → disciplinary procedure  
+- termination or resignation pressure → termination safeguards  
+- harassment or discrimination → POSH & safety sections  
 
-### Part D – Service Conditions
-Working hours, workload, pay, increments, leave, benefits, training, transfers
-
-### Part E – Discipline & Termination
-Misconduct definitions, show-cause notices, inquiries, suspension, termination safeguards, illegal practices
-
-### Part F – Dignity & Safety
-POSH compliance, harassment protection, equality, health and safety
-
-### Part G – Professional Conduct
-Teacher ethics, social media norms, conflict of interest
-
-### Part H – Documentation & Self-Protection
-Records to maintain, responding to memos, handling pressure to resign
-
-### Part I – Grievance & Legal Remedies
-Internal complaints, boards, labour courts, tribunals, RTI
-
-### Part J – Checklists & Sample Formats
-Ready-to-use letters, representations, and practical templates
-
-### Part K – State-Specific Notes
-Key variations and useful contacts
-
-### Part L – Disclaimers
+Use the checklists and sample formats for practical action.
 
 ---
 
-## How to use this repository
+## Approach
 
-You can use it in different ways:
+This project follows a few simple principles:
 
-- Read online as a handbook
-- Search for a specific issue (termination, leave, contract, etc.)
-- Share sections with colleagues
-- Use sample formats for official communication
-- Adapt for training or awareness sessions
+- plain language over legal jargon  
+- practical guidance over theory  
+- fairness and due process  
+- teacher dignity and workplace safety  
+- open access knowledge  
+
+The aim is clarity, not complexity.
 
 ---
 
-## Project structure (suggested)
+## Disclaimer
 
+This handbook is for informational and educational purposes only.  
+Education and labour laws vary by state, board affiliation, and individual contracts.
+
+For serious disputes or litigation, consult a qualified lawyer or the appropriate authority.
+
+---
+
+## Contributions
+
+Suggestions, corrections, and state-specific inputs are welco
